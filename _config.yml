@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Stephen Xia"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Scholar\nEECS Department"
-  location         : "UC Berkeley"
+  bio              : "Postdoctoral Scholar\nEECS Department\nUC Berkeley"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=b6PNcXQAAAAJ&hl=en"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/stephen-xia"
+  orcid            : "https://orcid.org/0000-0001-5713-8885"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
