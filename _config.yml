@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Stephen Xia"
   avatar           : "files/stephenxia.jpg"
-  bio              : "Postdoctoral Scholar"
-  location         : "UC Berkeley"
-  employer         : "EECS Department"
+  bio              : "Postdoctoral Scholar\n\r EECS Department\n\r UC Berkeley"
+  location         :
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=b6PNcXQAAAAJ&hl=en"
   email            : "stephen.xia@columbia.edu"
