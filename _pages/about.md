@@ -13,5 +13,5 @@ I am a Postdoctoral Scholar in the Department of Electrical Engineering and Comp
 My vision is to realize truly intelligent, health-aware, and safer environments by embedding intelligence into common objects and devices found all around us. I develop techniques and systems that jointly leverage signal processing and established physical models to guide the development and training of data-driven machine learning methods to yield solutions, services, and applications that are robust, yet capable of running continuously and in real-time, on resource-constrained platforms. My research bridges the gap between systems, signal processing, and machine learning, as well as contributes to areas in embedded systems, mobile edge computing, Internet-of-Things, artificial intelligence, data science, and digital health.
 
 Selected Publications 
-======
+---------------------
 Goo goo
