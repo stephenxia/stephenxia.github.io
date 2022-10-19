@@ -14,4 +14,15 @@ My vision is to realize truly intelligent, health-aware, and safer environments 
 
 Selected Publications 
 ---------------------
-Goo goo
+
+[AvA: An Adaptive Audio Filtering Architecture for Enhancing Mobile, Embedded, and Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/9825986)  
+Stephen Xia and Xiaofan Jiang  
+*ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022  
+
+[CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments](https://dl.acm.org/doi/abs/10.1145/3412382.3458267)  
+Stephen Xia, Jingping Nie, and Xiaofan Jiang  
+*ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2021  
+
+[Improving Pedestrian Safety in Cities using Intelligent Wearable Systems](https://ieeexplore.ieee.org/abstract/document/8662658)  
+Stephen Xia, Daniel de Godoy, Bashima Islam, Md Tamzeed Islam, Shahriar Nirjon, Peter R. Kinget, Xiaofan Jiang  
+*IEEE Internet of Things Journal*, 2019  
