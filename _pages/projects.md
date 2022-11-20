@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <figure>
-<img style="float: left;" src="../images/stephenxia.jpg" width="200">
+<img style="float: left;width=30%;" src="../images/stephenxia.jpg">
 
 <figcaption align = "left">Test\nTest</figcaption>
 </figure>
