@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 
+<figure style="width:30%">
+    <img src="../images/stephenxia.jpg" alt="">
+    <figcaption align = "left"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+</figure>
+<h2>Test</h2>
+<p>asdfasdfasdfad</p>
+
 <div class="row">
    <div class="col-md-6">
    <img src="../images/stephenxia.jpg" alt="" style='float: left; object-fit: contain; margin:50px 0px"' width=400>
