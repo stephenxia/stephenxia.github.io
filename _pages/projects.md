@@ -5,13 +5,28 @@ permalink: /projects/
 author_profile: true
 ---
 
-<img style="float: right;" src="../images/stephenxia.jpg" width="200">
+<figure>
+<img style="float: left;" src="../images/stephenxia.jpg" width="200">
+
+<figcaption align = "left">Test\nTest</figcaption>
+</figure>
+
 Title
 ----
 
 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 asdfasdfad
+
+
 
 
 2022
