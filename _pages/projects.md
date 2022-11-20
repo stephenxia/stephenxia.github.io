@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 
-<figure style="width:30%">
-    <img src="../images/stephenxia.jpg" alt="">
-    <figcaption align = "left"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+<figure style="width:100%">
+    <img src="../images/stephenxia.jpg" alt="" style="width:30%">
+    <figcaption align = "left"><b>Fig.1 - 4K Mountains Wallpaper<br/>asdfasdfad</b></figcaption>
+    <h2>Test</h2>
+    <p>asdfasdfasdfad</p>
 </figure>
 <h2>Test</h2>
 <p>asdfasdfasdfad</p>
