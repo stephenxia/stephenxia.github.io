@@ -8,7 +8,7 @@ author_profile: true
 
 <div class="row">
    <div class="col-md-6">
-   <img src="../images/stephenxia.jpg" alt="" style='float: left; object-fit: contain' width=400>
+   <img src="../images/stephenxia.jpg" alt="" style='float: left; object-fit: contain; margin:50px 0px"' width=400>
        <p>
            Project Page: <a href="http://icsl.ee.columbia.edu/paws/">Link</a><br />
            Publications: <a href="https://ieeexplore.ieee.org/abstract/document/8662658">IoT Journal</a> <br />
