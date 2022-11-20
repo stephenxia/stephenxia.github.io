@@ -5,8 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 
-<img style="float: right;" src="../images/stephenxia.jpg" width="200">ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022 
-yuiyuiy
+<img style="float: right;" src="../images/stephenxia.jpg" width="200">
+Title
+----
+
+ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*
 
 asdfasdfad
 
