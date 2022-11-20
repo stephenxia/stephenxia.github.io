@@ -19,7 +19,7 @@ author_profile: true
 
 <div class="row">
    <div class="col-md-6">
-       <img src="../images/stephenxia.jpg" alt="" style='float: left; object-fit: contain; margin:50px 50px 50px' width=400>
+       <img src="../images/stephenxia.jpg" alt="" style='float: left; object-fit: contain; margin:0px 50px 50px 50px' width=400>
     </div>
     <div class="col-md-6">
         <h2>Intelligent Wearables for Pedestrian Safety</h2>
