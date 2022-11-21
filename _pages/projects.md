@@ -156,7 +156,7 @@ author_profile: true
 
 <div class="row">
    <div class="col-md-6">
-       <img src="../images/projects/recEnergyWatch_IoTJ-1024x1024.png" alt="" style='float: left; object-fit: contain; margin:0px 50px 50px 50px' width=500>
+       <img src="../images/projects/recEnergyWatch_IoTJ-1024x1024.png" alt="" style='float: left; object-fit: contain; margin:0px 50px 50px 50px' width=300>
     </div>
     <div class="col-md-6">
         <h2 style="color: gray">Energy Saving Recommender Systems</h2>
