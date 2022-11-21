@@ -135,11 +135,11 @@ author_profile: true
 <br />
 
 <div class="row">
-   <div class="col-md-6">
-       <img src="../images/projects/Footprint-1024x331.png" alt="" style='float: left; object-fit: contain; margin:0px 50px 50px 50px'>
-    </div>
     <div class="col-md-6">
         <h2 style="color: gray">Building Energy Footprinting</h2>
+        <div class="col-md-6">
+            <img src="../images/projects/Footprint-1024x331.png" alt="" style='float: left; object-fit: contain; margin:0px 50px 50px 50px'>
+        </div>
         <div class="content-info">
             <p>
                 With the rise of population and emergence of smart buildings and smart cities, conserving energy is of prime importance. While people are careful about their usage at home, energy wastage in public buildings/offices goes unaccounted for as users do not pay for it. We develop a system that can generate real-time energy footprint for all users and provide related data analytics to help conserve their energy and even implement advanced functionalities such as prediction and modeling.
