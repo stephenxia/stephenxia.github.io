@@ -31,6 +31,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <h2>Audio Wearables for Urban Safety</h2>
 
@@ -72,6 +73,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -91,8 +93,9 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
-</h2>Platforms for Smarter and Healthier Built Environments</h2>
+<h2>Platforms for Smarter and Healthier Built Environments</h2>
 
 <div class="row">
    <div class="col-md-6">
@@ -111,6 +114,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -128,6 +132,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -147,6 +152,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -166,8 +172,9 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
-</h2>Mobile Health</h2>
+<h2>Mobile Health</h2>
 
 <div class="row">
    <div class="col-md-6">
@@ -186,6 +193,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -203,6 +211,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -220,6 +229,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -237,6 +247,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
@@ -254,6 +265,7 @@ author_profile: true
         </div>
     </div>
 </div>
+<br />
 
 <div class="row">
    <div class="col-md-6">
