@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar in the Department of Electrical Engineering and Computer Sciences at UC Berkeley supervised by Dr. [Prabal Dutta](https://www2.eecs.berkeley.edu/Faculty/Homepages/prabal.html) and Dr. [Xiaofan Jiang](http://fredjiang.com). I received the Ph.D. in Electrical Engineering from Columbia University (2022), and the B.S. in Electrical Engineering from Rice University (2016).
+I am an assistant professor in the Department of [Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) at [Northwestern University](https://www.northwestern.edu/), where I direct the Intelligent Mobile and Embedded Computing (IMEC) Lab. We work on a variety of exciting problems in embedded AI, mobile and embedded systems, and smart health.
 
-My vision is to realize truly intelligent, health-aware, and safer environments by embedding intelligence into common objects and devices found all around us. I develop techniques and systems that jointly leverage signal processing and established physical models to guide the development and training of data-driven machine learning methods to yield solutions, services, and applications that are robust, yet capable of running continuously and in real-time, on resource-constrained platforms. My research bridges the gap between systems, signal processing, and machine learning, as well as contributes to areas in embedded systems, mobile edge computing, Internet-of-Things, artificial intelligence, data science, and digital health.
+Our goal is to realize truly intelligent, health-aware, and safer environments by embedding intelligent percpetion and reasoning into common objects and devices found all around us and utilizing them in efficient ways to provide useful services and improve quality of life. Our work spans a number of domains, including cyber-physical systems, edge computing, signal processing, machine learning, data science, wearables, robotics, health, etc.
+
+**News:** I am looking for motivated Ph.D. students beginning in 2024. If you're interested, please send me an email ([stephen.xia@northwestern.edu](stephen.xia@northwestern.edu)) with your CV, and I'd be happy to chat! I am also always on the lookout for motivated undergraduate and graduate students to work with; please reach out with your CV if interested.
+
+
+Prior to Northwestern, I was a postdoctoral scholar in the Department of Electrical Engineering and Computer Sciences at UC Berkeley (2023), working with [Prabal Dutta](https://www2.eecs.berkeley.edu/Faculty/Homepages/prabal.html). I received the Ph.D. in Electrical Engineering from Columbia University (2022), working with [Xiaofan Jiang](http://fredjiang.com), and the B.S. in Electrical Engineering from Rice University (2016).
+
+
 
 Selected Publications 
 ---------------------
