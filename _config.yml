@@ -86,7 +86,7 @@ author:
   location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=b6PNcXQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=b6PNcXQAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "stephen.xia@northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
