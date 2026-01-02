@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Department of [Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) and [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) (by courtesy) at [Northwestern University](https://www.northwestern.edu/), where I direct the Intelligent Mobile and Embedded Computing (IMEC) Lab. We work on a variety of exciting problems in embedded AI, mobile and embedded systems, and smart health.
+I am an assistant professor in the Department of [Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) and [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) (by courtesy) at [Northwestern University](https://www.northwestern.edu/), where I direct the [**Intelligent Mobile and Embedded Computing (IMEC) Lab**](https://imec-nu.github.io/). We work on a variety of exciting problems in embedded AI, mobile and embedded systems, and smart health.
 
 Our goal is to realize truly intelligent, health-aware, and safer environments by embedding intelligent perception and reasoning into common objects and devices found all around us and utilizing them in efficient ways to provide useful services and improve quality of life. Our work spans a number of domains, including cyber-physical systems, edge computing, signal processing, machine learning, data science, wearables, robotics, health, etc.
 
