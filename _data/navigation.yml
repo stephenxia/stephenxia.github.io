@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: /projects/
+    url: "https://imec-nu.github.io/projects/"
 
   - title: "Publications"
     url: /publications/
