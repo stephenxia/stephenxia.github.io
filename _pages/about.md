@@ -38,7 +38,7 @@ Minghui Zhao, Junxi Xia, Kaiyuan Hou, Yanchen Liu, Stephen Xia, Xiaofan Jiang
 Yueyuan Sui, Minghui Zhao, Junxi Xia, Xiaofan Jiang, Stephen Xia  
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2024
 
-[Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields](https://dl.acm.org/doi/abs/10.1145/3570361.3613292)
+[Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields](https://dl.acm.org/doi/abs/10.1145/3570361.3613292)  
 Stephen Xia, Minghui Zhao, Charuvahan Adhivarahan, Kaiyuan Hou, Yuyang Chen, Jingping Nie, Eugene Wu, Karthik Dantu, Xiaofan Jiang  
 *International Conference on Mobile Computing and Networking (MobiCom)*, 2023
 
