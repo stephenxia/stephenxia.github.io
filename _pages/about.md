@@ -30,6 +30,10 @@ Yuxuan Li, Yicheng Gao, Ning Yang, Stephen Xia
 Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, Qi Zhu  
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2025, <span style="color:red">Spotlight</span>
 
+[FlexiFly: Interfacing the Physical World with Foundation Models Empowered by Reconfigurable Drone Systems](https://dl.acm.org/doi/abs/10.1145/3715014.3722081)  
+Minghui Zhao, Junxi Xia, Kaiyuan Hou, Yanchen Liu, Stephen Xia, Xiaofan Jiang  
+*ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2025
+
 [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/abs/10.1145/3699757)  
 Yueyuan Sui, Minghui Zhao, Junxi Xia, Xiaofan Jiang, Stephen Xia  
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2024
