@@ -24,11 +24,11 @@ Selected Publications
 
 [TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning](https://arxiv.org/pdf/2504.05585)  
 Yuxuan Li, Yicheng Gao, Ning Yang, Stephen Xia  
-*AAAI Conference on Artificial Intelligence (AAAI)*, 2026, <span style="color:red">Oral</span>
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2026, <span style="color:red">**Oral**</span>
 
 [MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://arxiv.org/pdf/2509.25278)  
 Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, Qi Zhu  
-*Conference on Neural Information Processing Systems (NeurIPS)*, 2025, <span style="color:red">Spotlight</span>
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2025, <span style="color:red">**Spotlight**</span>
 
 [FlexiFly: Interfacing the Physical World with Foundation Models Empowered by Reconfigurable Drone Systems](https://dl.acm.org/doi/abs/10.1145/3715014.3722081)  
 Minghui Zhao, Junxi Xia, Kaiyuan Hou, Yanchen Liu, Stephen Xia, Xiaofan Jiang  
