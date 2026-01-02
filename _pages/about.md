@@ -22,30 +22,30 @@ Prior to Northwestern, I was a postdoctoral scholar in the Department of Electri
 Selected Publications 
 ---------------------
 
-[TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning](https://arxiv.org/pdf/2504.05585)
-Yuxuan Li, Yicheng Gao, Ning Yang, Stephen Xia
+[TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning](https://arxiv.org/pdf/2504.05585)  
+Yuxuan Li, Yicheng Gao, Ning Yang, Stephen Xia  
 *AAAI Conference on Artificial Intelligence (AAAI)*, 2026, <span style="color:red">Oral</span>
 
-[MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://arxiv.org/pdf/2509.25278)
-Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, Qi Zhu
+[MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://arxiv.org/pdf/2509.25278)  
+Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, Qi Zhu  
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2025, <span style="color:red">Spotlight</span>
 
-[TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/abs/10.1145/3699757)
-Yueyuan Sui, Minghui Zhao, Junxi Xia, Xiaofan Jiang, Stephen Xia
+[TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/abs/10.1145/3699757)  
+Yueyuan Sui, Minghui Zhao, Junxi Xia, Xiaofan Jiang, Stephen Xia  
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2024
 
 [Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields](https://dl.acm.org/doi/abs/10.1145/3570361.3613292)
-Stephen Xia, Minghui Zhao, Charuvahan Adhivarahan, Kaiyuan Hou, Yuyang Chen, Jingping Nie, Eugene Wu, Karthik Dantu, Xiaofan Jiang
+Stephen Xia, Minghui Zhao, Charuvahan Adhivarahan, Kaiyuan Hou, Yuyang Chen, Jingping Nie, Eugene Wu, Karthik Dantu, Xiaofan Jiang  
 *International Conference on Mobile Computing and Networking (MobiCom)*, 2023
 
 
 Teaching 
 ---------------------
 
-**Winter 2026:** COMP_ENG 346: Microcontroller System Design
-**Fall 2025:** COMP_ENG 365/465: Internet-of-Things Sensors, Systems, and Applications
-**Spring 2025:** COMP_ENG 395/495: Embedded Artificial Intelligence
-**Winter 2025:** COMP_ENG 346: Microcontroller System Design
-**Fall 2024:** ELEC_ENG/COMP_ENG 495: PhD Life Skills Building
-**Spring 2024:** COMP_ENG 395/495: Embedded Artificial Intelligence
-**Winter 2024:** COMP_ENG 346: Microcontroller System Design
+**Winter 2026:** COMP_ENG 346: Microcontroller System Design  
+**Fall 2025:** COMP_ENG 365/465: Internet-of-Things Sensors, Systems, and Applications  
+**Spring 2025:** COMP_ENG 395/495: Embedded Artificial Intelligence  
+**Winter 2025:** COMP_ENG 346: Microcontroller System Design  
+**Fall 2024:** ELEC_ENG/COMP_ENG 495: PhD Life Skills Building  
+**Spring 2024:** COMP_ENG 395/495: Embedded Artificial Intelligence  
+**Winter 2024:** COMP_ENG 346: Microcontroller System Design  

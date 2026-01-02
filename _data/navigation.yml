@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "IMEC Lab"
+    url: "https://imec-nu.github.io"
+
   - title: "Projects"
     url: "https://imec-nu.github.io/projects/"
 
